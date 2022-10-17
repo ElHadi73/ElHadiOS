@@ -1,1 +1,1 @@
-nasm bootloader.asm -f bin -o booltloader.flp
+nasm bootloader.asm -f bin -o bootloader.flp
